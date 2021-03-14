@@ -1,4 +1,9 @@
-    body {
+h1 {
+    background-color: #CCCCCC;
+        font-family: 'Rubik', sans-serif;;
+    }
+
+body {
         background-color: #CCCCCC;
-        font-family: monospace;
+        font-family: 'Rubik', sans-serif;;
     }
