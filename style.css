@@ -15,7 +15,10 @@ body {
     background-color: #CCCCCC;
     font-family: 'Rubik', sans-serif;;
 }
-
+#left { text-align: left; }
+#right { text-align: right; }
+#center { text-align: center; }
+   
 <span class="material-icons-outlined">
 done
 </span>
