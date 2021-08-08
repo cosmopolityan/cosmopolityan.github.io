@@ -1,9 +1,10 @@
-.header {
-  padding: 20px;
-  text-align: center;
-  background: #FF0033;
-  color: black;
-  font-size: 24px;
+.disclaimer {
+	padding: 20px;
+	text-align: center;
+	background: #FF0033;
+	color: black;
+	font-size: 24px;
+	position: fixed;
 }
 
 h1 {
