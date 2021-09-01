@@ -122,3 +122,24 @@ input[required]:valid + label:after {
 .personal-data {
 
 }
+
+#description {
+	margin: auto;
+	width: 90%;
+}
+
+.request {
+	margin: auto;
+	margin-bottom: 20px;
+	width: 90%;
+}
+
+legend {
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: 600;
+}
+
+.please {
+	padding: 20px;
+}
