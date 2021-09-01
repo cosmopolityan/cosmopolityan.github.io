@@ -7,11 +7,11 @@
 }
 
 .disclaimer {
-	padding: 20px;
-	text-align: center;
-	background: #FF0033;
-	color: black;
-	font-size: 24px;
+  padding: 20px;
+  text-align: center;
+  background: #FF0033;
+  color: black;
+  font-size: 24px;
 }
 
 body {
@@ -56,21 +56,21 @@ textarea {
 
 /*
 input[required] + label:after {
-	content:"*";
-	font-size: 2.1em;
-	position: relative;
-	top: 6px;
-	display: inline-flex;
-	margin-left: .2ch;
-	transition: color, 1s;
+  content:"*";
+  font-size: 2.1em;
+  position: relative;
+  top: 6px;
+  display: inline-flex;
+  margin-left: .2ch;
+  transition: color, 1s;
 }
 
 input[required]:invalid + label:after {
-	color: red;
+  color: red;
 }
 
 input[required]:valid + label:after {
-	color: green;
+  color: green;
 }
 */
 
@@ -119,27 +119,23 @@ input[required]:valid + label:after {
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
-.personal-data {
-
-}
-
 #description {
-	margin: auto;
-	width: 90%;
+  margin: auto;
+  width: 90%;
 }
 
 .request {
-	margin: auto;
-	margin-bottom: 20px;
-	width: 90%;
+  margin: auto;
+  margin-bottom: 20px;
+  width: 90%;
 }
 
 legend {
-	text-align: center;
-	font-size: 1.5em;
-	font-weight: 600;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: 600;
 }
 
 .please {
-	padding: 20px;
+  padding: 20px;
 }
