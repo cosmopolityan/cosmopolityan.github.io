@@ -147,5 +147,11 @@ legend {
 }
 
 .submit-button {
-  
+  background: linear-gradient(45deg, #58ff05, #05bcff);
+  border-radius: 25px;
+  font-weight: 600;
+}
+
+.submit-button:hover {
+  box-shadow: 5px 5px 25px 11px #58ff05;
 }
