@@ -59,7 +59,7 @@
 							min = 6
 							max = 115
 							placeholder="Твой возраст"
-							required>
+							required />
 					</div>
 					<label id="role">Тип деятельности:</label>
 					<select id="dropdown" name="role" class="form-control" required>
@@ -149,14 +149,16 @@
 					></textarea>
 					</div>
 					<div class="form-group">
-						
-						<input class="personal-data"
+					<label class="accept">
+						<input
 						name="prefer"
 						value="personal-data"
 						type="checkbox"
 						class="input-checkbox"
 						required
-						/>Я ознакомился с <a href="#">Политикой конфиденциальности персональных данных</a> и даю <a href="#">согласие на обработку персональных данных</a>
+						/>Я ознакомился с <a href="#">Политикой конфиденциальности персональных данных</a> и даю свое <a href="#">согласие на обработку персональных данных</a>
+					</label>
+						</div>
 					<div class="form-group">
 						<button type="submit" id="submit" class="submit-button">
 						Отправить заявку
